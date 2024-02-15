@@ -1,8 +1,7 @@
 # React_Native_Rotas_Stack
 
 <pre>
-
-  npm install @react-native/native
-  npm install @react-native/native-stack
+  
+  npx expo install @react-navigation/native @react-navigation/native-stack
   
 </pre>
